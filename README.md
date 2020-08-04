@@ -13,7 +13,7 @@
 
 #### I'm a Fresh Graduate Student, Web Developer
 - 🔭 I’m currently working on: Python, Data Structures, WebScraping Project
-- 🌱 I’m currently learning NodeS, MongoDB and othe Javascript Framework. 🤣
+- 🌱 I’m currently learning NodeJS, MongoDB and othe Javascript Framework. 🤣
 - 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I eat Food. 🍜
 
