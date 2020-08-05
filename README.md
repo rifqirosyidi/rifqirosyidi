@@ -49,7 +49,7 @@
 
 #### Stats:  
  
-<img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&count_private=true&show_icons=true&hide=issues,contribs&theme=shades-of-purple" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&count_private=true&show_icons=true&theme=shades-of-purple" width="100%"/>
 
 ![Profile views](https://gpvc.arturio.dev/rifqirosyidi)
  
