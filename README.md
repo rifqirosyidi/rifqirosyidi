@@ -9,6 +9,7 @@
 [![](https://img.shields.io/badge/-@rief.rosyidi-black?logo=medium&style=flat-square)](https://medium.com/@rief.rosyidi)
  [![](https://img.shields.io/badge/-rief014-1fa2f2?logo=twitter&style=flat-square&logoColor=white)](https://twitter.com/Rief014)
 </div>
+
 <hr>
 
 #### I'm a Fresh Graduate Student, Web Developer
@@ -48,6 +49,9 @@
 
 #### Stats:  
 
+<div align="center">
+ ![Profile views](https://gpvc.arturio.dev/rifqirosyidi)
+</div>
  <img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&count_private=true&show_icons=true&hide=issues,contribs&theme=shades-of-purple" width="100%"/>
 
 
