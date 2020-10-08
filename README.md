@@ -12,7 +12,6 @@
 
 </div>
 
-https://www.hackerrank.com/rief_rosyidi
 <hr>
 
 #### I'm a Fresh Graduate Student, Web Developer
