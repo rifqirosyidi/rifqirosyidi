@@ -52,10 +52,24 @@
 
 
 #### Stats:  
- 
-<img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&count_private=true&show_icons=true&theme=shades-of-purple" width="100%"/>
 
-![Profile views](https://gpvc.arturio.dev/rifqirosyidi)
+<!-- thropy -->
+<a href="https://arshiamidos.github.io">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=arshiamidos&column=7&theme=onedark"/>
+    </p>
+</a>
+
+<!-- status codes -->
+<a align="center" href="https://arshiamidos.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=rifqirosyidi&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rifqirosyidi&hide=css,html,%20jupyter+notebook&langs_count=6&theme=radical" alt="languages" height="165">
+    </p>
+</a>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=rifqirosyidi&color=brightgreen&style=flat-square" alt="profile_views"/>
+</p>
  
 
 
