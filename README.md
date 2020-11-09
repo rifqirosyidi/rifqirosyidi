@@ -17,8 +17,8 @@
 <hr>
 
 #### I'm a Fresh Graduate Student, Web Developer
-- 🔭 I’m currently working on: Python, Data Structures, WebScraping Project
-- 🌱 I’m currently learning VueJS, NodeJS, MongoDB and othe Javascript Framework. 🤣
+- 🔭 I’m currently working on: GatsbyJS, Design, and some Personal Project
+- 🌱 I’m currently learning GraphQL, NodeJS, MongoDB and other Javascript Framework. 🤣
 - 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I eat Food. 🍜
 
