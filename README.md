@@ -18,7 +18,7 @@
 
 #### I'm a Fresh Graduate Student, Web Developer
 - 🔭 I’m currently working on: Blog & Design, and some Personal Project
-- 🌱 I’m currently learning GraphQL, NodeJS, MongoDB and other Javascript Framework. 🤣
+- 🌱 I’m currently learning GraphQL, GatsbyJS, and other Javascript Framework. 🤣
 - 👯 I’m looking to forward to collaborate. 
 - ⚡ Fun fact: I eat Food. 🍜
 
@@ -31,10 +31,12 @@
 <br/>  
 
 #### Frameworks/Platforms:
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
 <br/> 
 
 #### Data: 
